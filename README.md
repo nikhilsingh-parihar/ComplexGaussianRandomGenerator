@@ -1,2 +1,3 @@
-# ComplexGaussianRandomVectorGenerator
-In Matlab, existing functions typically generate random vectors assuming either an identity covariance matrix or a constant multiple thereof. This repository addresses the gap by offering a solution to generate complex Gaussian random vectors with arbitrary covariance matrices. The provided code enables users to generate random vectors based on any desired covariance matrix, offering flexibility and precision in statistical simulations and analyses.
+# How to generate gaussian random variable/vector/matrix with desired covariance matrix
+
+
